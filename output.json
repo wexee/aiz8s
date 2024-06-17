@@ -1,422 +1,1202 @@
 [
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Jana",
         "user.surname": "Newbie",
         "user.email": "jana.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5583ebfa-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5583f5d2-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5583fd5c-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584090a-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55841544-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1f34a-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Jolana",
         "user.surname": "Newbie",
         "user.email": "jolana.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "55842ac0-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55843434-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5584401e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55844f1e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55845bee-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1f3cc-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Jitka",
         "user.surname": "Newbie",
         "user.email": "jitka.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "558465ee-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55846e5e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55847a02-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584829a-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55848aba-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Jaroslava",
         "user.surname": "Newbie",
         "user.email": "jaroslava.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55849276-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55849942-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584a00e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5584a798-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584ae8c-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Lada",
         "user.surname": "Newbie",
         "user.email": "lada.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584b5bc-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5584bc88-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584c354-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584ca20-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584d1dc-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1f4e4-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Ludmila",
         "user.surname": "Newbie",
         "user.email": "ludmila.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584d9ac-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584e0d2-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584e7b2-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5584ee60-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584f568-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1f534-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Lucie",
         "user.surname": "Newbie",
         "user.email": "lucie.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5584fe28-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5585072e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55850f12-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "558516f6-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55883e94-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1f58e-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Nola",
         "user.surname": "Newbie",
         "user.email": "nola.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55886f36-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588771a-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55887de6-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "558885ca-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55888d40-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1f5de-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Neva",
         "user.surname": "Newbie",
         "user.email": "neva.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55889470-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "55889b50-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588a1ea-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588a898-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588b022-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
+        "class.id": "ce0bb0ec-e4c9-4a3a-b337-c414e289cd23",
+        "class.name": "KB",
         "user.id": "89d1f638-ae0f-11ed-9bd8-0242ac110002",
         "user.name": "Nora",
         "user.surname": "Newbie",
         "user.email": "nora.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588b770-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588be1e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588c508-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588ccf6-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588d444-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Jana",
-        "user.surname": "Newbie",
-        "user.email": "jana.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "bbb72d10-a5d0-4816-811f-da8600edb468",
+        "user.name": "Nicholas",
+        "user.surname": "Hughes",
+        "user.email": "nicholas.hughes@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5583ebfa-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5583f5d2-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5583fd5c-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5584090a-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55841544-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1f34a-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Jolana",
-        "user.surname": "Newbie",
-        "user.email": "jolana.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "cdc7bc4e-a230-47f5-9598-b7c146159199",
+        "user.name": "Christopher",
+        "user.surname": "Cameron",
+        "user.email": "christopher.cameron@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55842ac0-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55843434-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584401e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55844f1e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55845bee-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1f3cc-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Jitka",
-        "user.surname": "Newbie",
-        "user.email": "jitka.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "9cf6d490-3c7b-440f-b3e6-12afb9df6ad8",
+        "user.name": "Michael",
+        "user.surname": "Hutchinson",
+        "user.email": "michael.hutchinson@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "558465ee-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55846e5e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55847a02-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584829a-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55848aba-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Jaroslava",
-        "user.surname": "Newbie",
-        "user.email": "jaroslava.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "bf9fd94c-bfc9-4982-a401-c7d54440aac1",
+        "user.name": "Diane",
+        "user.surname": "Sherman",
+        "user.email": "diane.sherman@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55849276-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55849942-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584a00e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584a798-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584ae8c-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Lada",
-        "user.surname": "Newbie",
-        "user.email": "lada.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "f6a48d32-bd63-449e-8863-81d17eeeedac",
+        "user.name": "Henry",
+        "user.surname": "Holden",
+        "user.email": "henry.holden@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584b5bc-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584bc88-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584c354-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584ca20-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5584d1dc-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1f4e4-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Ludmila",
-        "user.surname": "Newbie",
-        "user.email": "ludmila.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "deb6bd2e-5f36-4480-ba5b-50da8d305fca",
+        "user.name": "Victoria",
+        "user.surname": "Taylor",
+        "user.email": "victoria.taylor@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584d9ac-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584e0d2-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584e7b2-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5584ee60-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584f568-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1f534-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Lucie",
-        "user.surname": "Newbie",
-        "user.email": "lucie.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "088c25d1-9876-46ef-803d-19fe672a3e1e",
+        "user.name": "Lori",
+        "user.surname": "Stevens",
+        "user.email": "lori.stevens@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5584fe28-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5585072e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55850f12-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "558516f6-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55883e94-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1f58e-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Nola",
-        "user.surname": "Newbie",
-        "user.email": "nola.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "b2d7480d-fa0d-492f-a594-2dca34dd11e7",
+        "user.name": "Peter",
+        "user.surname": "Davis",
+        "user.email": "peter.davis@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55886f36-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588771a-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55887de6-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "558885ca-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55888d40-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1f5de-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Neva",
-        "user.surname": "Newbie",
-        "user.email": "neva.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "31b1724d-890f-4e37-9f55-8baef795d7a5",
+        "user.name": "Arthur",
+        "user.surname": "Hamilton",
+        "user.email": "arthur.hamilton@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55889470-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "55889b50-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588a1ea-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588a898-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5588b022-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     },
     {
-        "user.id": "89d1f638-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Nora",
-        "user.surname": "Newbie",
-        "user.email": "nora.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Jana",
-        "user.surname": "Newbie",
-        "user.email": "jana.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1f34a-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Jolana",
-        "user.surname": "Newbie",
-        "user.email": "jolana.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1f3cc-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Jitka",
-        "user.surname": "Newbie",
-        "user.email": "jitka.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Jaroslava",
-        "user.surname": "Newbie",
-        "user.email": "jaroslava.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Lada",
-        "user.surname": "Newbie",
-        "user.email": "lada.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1f4e4-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Ludmila",
-        "user.surname": "Newbie",
-        "user.email": "ludmila.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1f534-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Lucie",
-        "user.surname": "Newbie",
-        "user.email": "lucie.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1f58e-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Nola",
-        "user.surname": "Newbie",
-        "user.email": "nola.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1f5de-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Neva",
-        "user.surname": "Newbie",
-        "user.email": "neva.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
-    },
-    {
-        "user.id": "89d1f638-ae0f-11ed-9bd8-0242ac110002",
-        "user.name": "Nora",
-        "user.surname": "Newbie",
-        "user.email": "nora.newbie@world.com",
-        "event.id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "event.name": "Zkouška",
-        "event.startdate": "2023-04-19T08:00:00",
-        "event.enddate": "2023-04-19T09:00:00",
-        "presenceType.id": "466398c6-a79c-11ed-b76e-0242ac110002",
-        "presenceType.name": "Přítomen",
-        "eventType.id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-        "eventType.name": "Ostatní"
+        "class.id": "d127090a-7543-4150-bc08-f75bd23eaef6",
+        "class.name": "EL",
+        "user.id": "76bb53d1-babb-49e1-a64e-11ac6e616f55",
+        "user.name": "Amy",
+        "user.surname": "Mcdonald",
+        "user.email": "amy.mcdonald@example.com",
+        "presences": {
+            "event1": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T08:00:00",
+                "event.enddate": "2024-01-01T09:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Nepřítomen",
+                "eventType.id": "5588b770-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event2": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T09:15:00",
+                "event.enddate": "2024-01-01T10:15:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588be1e-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event3": {
+                "event.id": "p9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Přednáška",
+                "event.startdate": "2024-01-01T10:30:00",
+                "event.enddate": "2024-01-01T11:30:00",
+                "presenceType.id": "i2d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588c508-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event4": {
+                "event.id": "s3d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Zkouška",
+                "event.startdate": "2024-01-01T11:45:00",
+                "event.enddate": "2024-01-01T12:45:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588ccf6-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            },
+            "event5": {
+                "event.id": "v6d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "event.name": "Cvičení",
+                "event.startdate": "2024-01-01T13:00:00",
+                "event.enddate": "2024-01-01T14:00:00",
+                "presenceType.id": "g9d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+                "presenceType.name": "Přítomen",
+                "eventType.id": "5588d444-26a1-11ef-a88e-6e3e3410e540",
+                "eventType.name": "Ostatní"
+            }
+        }
     }
 ]
